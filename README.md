@@ -2,7 +2,7 @@
 Repositório criado para publicação dos projetos realizados durante o bootcamp <i><b>TQI Fullstack Developer</b></i> da <i>DIO</i>.
 
 </br>
-<h3>01 - Portifólio com menu hamburguer</h3>
+<h3>01 - Portfólio com menu hamburguer</h3>
 </b>
 <img src="https://github.com/siqueira91/TQI-Fullstack-DIO/blob/main/desafio01.jpeg?raw=true" width="650px">
 </br>
